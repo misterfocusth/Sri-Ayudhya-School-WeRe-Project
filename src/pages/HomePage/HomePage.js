@@ -736,7 +736,7 @@ export default function HomePage() {
                         <Card style={{ borderRadius: 15 }}>
                             <CardContent style={{ padding: 16 }}>
                                 <Typography variant="subtitle2" gutterBottom>
-                                    ทุกคนสามารถมีส่วนร่วมในการช่วยกันลดปริมาณขยะ เเละสามารถสะสมเเต้มเพื่อเเลกเปลี่ยนเป็นของรางวัลได้
+                                    ทุกคนสามารถมีส่วนร่วมในการช่วยกันลดปริมาณขยะ เเละสามารถสะสมเเต้มเพื่อเเลกเป็นของรางวัลได้
                                 </Typography>
                                 <Typography
                                     variant="subtitle2"

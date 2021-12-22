@@ -229,7 +229,7 @@ export default function RewardHistoryInfoPage() {
                             <CardContent style={{ padding: 0, width: "100%", height: "100%" }}>
                                 <img
                                     src={rewardHistoryTX.reward_data.reward_image_url}
-                                    alt="Recycle Location"
+                                    alt="รูปภาพถูกลบออกจากระบบ !"
                                     style={{
                                         height: "100%",
                                         width: "100%",
@@ -295,7 +295,7 @@ export default function RewardHistoryInfoPage() {
                                         gutterBottom
                                         style={{ marginTop: 8 }}
                                     >
-                                        ข้อมูลที่เเสดงเป็นข้อมูลที่ถูกบันทึก ณ วันที่นักเรียนทำรายการเเลกของรางวัล หากข้อมูลที่ระบบทำการบันทึกไว้มีข้อผิดพลาด  โปรดติดต่อผู้ดูเเลระบบเพื่อทำการเเก้ไขข้อมูล ให้ถูกต้องเเละเป็นปัจจุบัน
+                                        ข้อมูลที่เเสดงเป็นข้อมูลที่ถูกบันทึก ณ วันที่นักเรียนทำรายการเเลกของรางวัล
                                     </Typography>
                                 </div>
                             </CardContent>

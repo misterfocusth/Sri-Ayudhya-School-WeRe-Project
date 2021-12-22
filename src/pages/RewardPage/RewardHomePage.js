@@ -262,7 +262,7 @@ export default function RewardHomePage() {
                                     gutterBottom
                                     style={{ margin: 0, color: "#00a152", fontWeight: "bold" }}
                                 >
-                                   ประวัติการเเลกเปลี่ยนของรางวัล
+                                   ประวัติการเเลกของรางวัล
                                 </Typography>
                             </Grid>
                         </Grid>
