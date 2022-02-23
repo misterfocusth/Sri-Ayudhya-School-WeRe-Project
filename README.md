@@ -1,73 +1,21 @@
 # Sri-Ayudhya-WeRe-Student-App
-This repository contain project files of Sri Ayudhya School - We Re(cycle) Student's application side. And It's a part of Sila Pakdeewong's National Software Contest 2022 project. (24p22c0011) | This project has been supported by the National Science and Technology Development Agency (NSTDA)
+This repository contain project files of Sri Ayudhya School - We Re(cycle) Student and Teacher/Admin's application side. And It's a part of Sila Pakdeewong's National Software Contest 2022 project. (24p22c0011) | This project has been supported by the National Science and Technology Development Agency (NSTDA)
 
-# Getting Started with Create React App
+(2022 as Team Lead) : Sri Ayudhya School - We Re(cycle) - A web application for learning to participate in waste management and environmental protection. and promote participation in recycling (Bring waste that can be recycled and exchange it for accumulated points)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Design Develop and Implement : React.JS / Material-UI as Front-End UI framework, Firebase (Authentication / Cloud Firestore / Cloud Storage and Hosting) & LINE API (LINE Messaging API / LINE LIFF) as Back-end Service, using HTML & CSS and JavaScript as Programming Language
 
-## Available Scripts
+# Abstract
+Climate Change and Environment Management Program “Sri Ayudhya School - We Re(cycle) - A web application for learning to participate in waste management and environmental protection. and promote participation in recycling (Take the waste that can be recycled and turn it into accumulated points)” is a web application that encourages and encourages students to study, learn and participate in waste management. Separating waste according to the type of bins before throwing them into the bins. and help to save the environment by using the 5R principle in order to make students realize and see the importance of environmental protection It is also a web application to support recycling within Sri Ayutthaya School. Under the patronage of the students, within the web application, students can also search for recycling points around the school and can also exchange waste that can be recycled for reward points. to bring the accumulated points to exchange for various rewards many more in the future This encourages and motivates students to be interested and want to be more involved with recycling.
 
-In the project directory, you can run:
+Program development programs include Visual Studio Code, Google Chrome, LINE Application, GitHub, JavaScript programming languages, HTML & CSS, and other tools and services. A library to develop a React.JS user interface (UI) or web interface, Firebase Cloud Firestore, Storage, Hosting, and Authentication services, and LINE Messaging API and LINE LIFF (LINE Front-end Framework) services.
 
-### `npm start`
+This is a project funded research project. development and engineering The 24th Thailand Computer Program Development Competition from the National Science and Technology Development Agency.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# National Software Contest 2022 - Project Info
+- Name : Sri Ayudhya School - We Re(cycle) - A web application for learning to participate in waste management and environmental protection. and promote participation in recycling (Take the waste that can be recycled and turn it into accumulated points)
+- Program Catagory : Climate Change and Environment Management Program
+- Catagory : High School Student
+- Institute : Sri Ayudhya School
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Resources
