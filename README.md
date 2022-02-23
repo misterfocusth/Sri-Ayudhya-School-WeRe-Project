@@ -18,4 +18,9 @@ This is a project funded research project. development and engineering The 24th 
 - Catagory : High School Student
 - Institute : Sri Ayudhya School
 
+# Technology Stacks
+- Programming Languages : JavaScript / HTML & CSS
+- Front-end : React.JS / Material-UI / LINE-LIFF (LINE Front-end Freamwork)
+- Back-end : Firebase (Authentication & Cloud FireStore & Storage & Hosting) / LINE Messaging API
+
 # Resources
