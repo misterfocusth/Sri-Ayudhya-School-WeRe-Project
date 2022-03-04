@@ -1,3 +1,5 @@
+![Banner_Image](https://raw.githubusercontent.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project/main/Readme%20Resources/Banner.png)
+
 # Sri Ayudhya School - We Re(cycle) - Project
 This repository contain project files of Sri Ayudhya School - We Re(cycle) Student and Teacher/Admin's application side. And It's a part of Sila Pakdeewong's National Software Contest 2022 project. (24p22c0011) | This project has been supported by the National Science and Technology Development Agency (NSTDA)
 
@@ -24,3 +26,9 @@ This is a project funded research project. development and engineering The 24th 
 - Back-end : Firebase (Authentication & Cloud FireStore & Storage & Hosting) / LINE Messaging API
 
 # Resources
+- **Presentation Poster** : [View or Download](https://raw.githubusercontent.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project/main/Readme%20Resources/Poster.png)
+- **Presentation Slide** :
+
+# Software License Agreement
+
+This software is a work developed by. Mr.Sila Pakdeewong from Sri Ayudhya School under the Royal Patronage of H.R.H. Princess Bejaratana Rajasuda under the provision of Mr.Thongjun Temjit . under **Sri Ayudhya School - We Re(cycle) - A web application for learning to participate in waste management and environmental protection. and promote participation in recycling (Bring waste that can be recycled and exchange it for accumulated points)** , which has been supported by the National Science and Technology Development Agency ( NSTDA) , in order to encourage pupils and students to learn and practice their skills in developing software. Therefore, the intellectual property of this software shall belong to the developer and the developer gives NSTDA a permission to distribute this software as an “as is” and non- modified software for a temporary and non- exclusive use without remuneration to anyone for his or her own purpose or academic purpose, which are not commercial purposes. In this connection, NSTDA shall not be responsible to the user for taking care, maintaining, training or developing the efficiency of this software. Moreover, NSTDA shall not be liable for any error, software efficiency and damages in connection with or arising out of the use of the software.
